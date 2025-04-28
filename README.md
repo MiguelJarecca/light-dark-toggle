@@ -1,36 +1,33 @@
-# Ligth/Dark Mode Toggle
+# Light Dark Toggle
 A simple project that toggles between light and dark mode using HTML, CSS, and JavaScript. Click the button to instantly switch themes with a smooth transition effect.
 
-## Tecnologías Utilizadas
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-## Funcionalidades
-- Cambio dinámico entre modo claro y oscuro.
-- Almacenamiento del tema en localStorage.
-- Preferencia del sistema
+## Features
+- Dynamic switching between light and dark mode.
+- Theme persistence using localStorage.
+- System preference detection.
 
-## Capturas de Pantalla
+## Live Demo
+You can view the project live here: [Live Demo](https://www.youtube.com/watch?v=dsWSEJZVLj0&t=4s) 
 
-### Modo Claro
+## Credits
+This project was developed as a practice exercise following a tutorial by **[AlexCG Design]**.
+You can watch the original video here: [Link to the tutorial video](https://www.youtube.com/watch?v=dsWSEJZVLj0&t=4s)  
 
+## ¿How to Run it?
 
-## Créditos
-Esta proyecto fue desarrollado como práctica siguiendo este tutorial de **[Nombre del creador]**.
-Puedes ver el video original aquí: [Enlace al video del tutorial](URL_DEL_VIDEO)  
-
-## ¿Cómo Ejecutarlo?
-
-1. Clonar el repositorio:
+1. Clone the repository:
    ```bash
    git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git
 
-2. Abre el archivo `index.html` en tu navegador.
+2. Open the `index.html` file in your browser.
 
-## Contacto
-Para más información o preguntas:
-- **Email**: miguel.jarecca@gmail.com
+## Contact
+For more information or questions:
 - **LinkedIn**: [Miguel Jarecca - LinkedIn](https://www.linkedin.com/in/migueljarecca/)
 - **GitHub**: [Miguel Jarecca - GitHub](https://github.com/MiguelJarecca)
-- **Portafolio**: [Miguel Jarecca - Portafolio](https://migueljarecca.github.io/portafolio-miguel/)
+- **Portafolio**: [Miguel Jarecca - Portfolio](https://migueljarecca.github.io/portafolio-miguel/)
