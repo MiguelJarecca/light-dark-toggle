@@ -8,7 +8,7 @@
 :root[data-theme="light"] {
     --bg-color: #fff;
     --show-sun: block;
-    --shon-moon: none;
+    --show-moon: none;
     --text-color: #111;
 
     --message-mode: "Light Mode";
@@ -24,7 +24,7 @@
 :root[data-theme="dark"] {
     --bg-color: #111;
     --show-sun: none;
-    --shon-moon: block;
+    --show-moon: block;
     --text-color: #fff;
 
     --message-mode: "Dark Mode";
@@ -51,6 +51,11 @@ body {
     align-content: center;
 }
 
+.main_theme {
+    width: max-content;
+    margin: 0 auto;
+}
+
 .main_theme::after {
     content: var(--message-mode);
     display: block;
@@ -65,11 +70,11 @@ body {
 }
 
 .main__light {
-    display: var(--shon-sun);
+    display: var(--show-sun);
 }
 
 .main__dark {
-    display: var(--shon-moon);
+    display: var(--show-moon);
 }
 
 #sun {
