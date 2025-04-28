@@ -12,17 +12,17 @@ A simple project that toggles between light and dark mode using HTML, CSS, and J
 - System preference detection.
 
 ## Live Demo
-You can view the project live here: [Live Demo](https://www.youtube.com/watch?v=dsWSEJZVLj0&t=4s) 
+You can view the project live here: [Live Demo](https://migueljarecca.github.io/light-dark-toggle/) 
 
 ## Credits
-This project was developed as a practice exercise following a tutorial by **[AlexCG Design]**.
+This project was developed as a practice exercise following a tutorial by **AlexCG Design**.
 You can watch the original video here: [Link to the tutorial video](https://www.youtube.com/watch?v=dsWSEJZVLj0&t=4s)  
 
 ## ¿How to Run it?
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git
+   git clone https://github.com/MiguelJarecca/light-dark-toggle.git
 
 2. Open the `index.html` file in your browser.
 
